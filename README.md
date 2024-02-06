@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @KryptonCS
+- 👀 I’m interested in Cyber Security and Python
+- 📫 How to reach me on Discord: quantumkuro
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: root
