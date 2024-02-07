@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @KryptonCS
+- **I'm a beginner, so don't be surprised**
 - 👀 I’m interested in Cyber Security and Python
 - 📫 How to reach me on Discord: quantumkuro
 - 😄 Pronouns: he/him
